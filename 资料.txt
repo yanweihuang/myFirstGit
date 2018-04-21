@@ -1,0 +1,12 @@
+1. tensorflow各种编译版本（CPU、AVX2、GPU）
+https://github.com/lakshayg/tensorflow-build
+
+2. python在window上安装的各种wheel文件
+https://www.lfd.uci.edu/~gohlke/pythonlibs
+
+3. pip库下的wheel文件
+https://pypi.org/project/
+
+4. python QT安装包
+http://download.qt.io/official_releases/qt/5.10/5.10.1/
+
